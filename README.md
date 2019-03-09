@@ -18,6 +18,14 @@ Seznamte se s obsahem repozitáře a všimněte si nekonzistencí v pojmenován�
 1. Upravte seznam filmů tak, aby byl rok v závorce na konci řádku, stejně jako u prvních dvou filmových sérií.
 1. Upravte seznam filmů série *Bourne* tak, aby jednotlivé filmy byly uvedeny vzestupně dle roku vytvoření.
 1. Vytvořte adresář `movies` a do něj rozdělte obsah souboru `movie_series.md` do 4 souborů. Soubory pojmenutje podle názvů filmových sérií, tedy např. `the_matrix.md`.
+1. Rozšiřte seznam filmů o sérii *Harry Potter*. Informace můžete čerpat z ČSFD nebo IMDb.
+1. Rozšiřte seznam seriálů o všechny díly a epizody *Game of Thrones*.
+
+## Bonus
+1. Založte si účty na https://github.com a https://bitbucket.org.
+1. Založte si soukromý GitHub repozitář a nahrajte do něj dnešní repozitář s kompletní historií. Pomůže přímo GitHub, případně Pro Git book.
+1. To samé můžete vyzkoušet pro Bitbucket a porovnat, která služba se vám používá líp.
+1. Prostudujte si materiály z odkazů níže.
 
 ## Odkazy
 * Pro Git book

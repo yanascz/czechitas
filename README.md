@@ -24,7 +24,7 @@ Seznamte se s obsahem repozitáře a všimněte si nekonzistencí v pojmenován�
   * https://git-scm.com/book/en/v2
 * Visualizátor Git konceptů
   * https://onlywei.github.io/explain-git-with-d3/
-* Seznam GUI klientů
+* Seznam grafických klientů
   * https://git-scm.com/downloads/guis
 * Srovnání Git workflows
   * https://www.atlassian.com/git/tutorials/comparing-workflows
@@ -32,4 +32,5 @@ Seznamte se s obsahem repozitáře a všimněte si nekonzistencí v pojmenován�
   * https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow
   * https://guides.github.com/introduction/flow/index.html
 * Specialitky
+  * https://git-scm.com/book/en/v1/Git-Basics-Tips-and-Tricks
   * https://filip-prochazka.com/blog/git-fixup

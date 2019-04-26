@@ -34,6 +34,9 @@ Seznamte se s obsahem repozitáře a všimněte si nekonzistencí v pojmenován�
   * https://onlywei.github.io/explain-git-with-d3/
 * Seznam grafických klientů
   * https://git-scm.com/downloads/guis
+* Rebase
+  * https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase
+  * https://www.atlassian.com/git/tutorials/merging-vs-rebasing
 * Srovnání Git workflows
   * https://www.atlassian.com/git/tutorials/comparing-workflows
 * Předváděné workflow

@@ -25,6 +25,7 @@ Seznamte se s obsahem repozitáře a všimněte si nekonzistencí v pojmenován�
 1. Založte si účty na https://github.com a https://bitbucket.org.
 1. Založte si soukromý GitHub repozitář a nahrajte do něj dnešní repozitář s kompletní historií. Pomůže přímo GitHub, případně Pro Git book.
 1. To samé můžete vyzkoušet pro Bitbucket a porovnat, která služba se vám používá líp.
+1. Abyste nemusely opakovaně zadávat heslo, zprovozněte si přístup přes SSH do každého ze svých repozitářů.
 1. Prostudujte si materiály z odkazů níže.
 
 ## Odkazy

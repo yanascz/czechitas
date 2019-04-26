@@ -46,3 +46,4 @@ Seznamte se s obsahem repozitáře a všimněte si nekonzistencí v pojmenován�
 * Specialitky
   * https://git-scm.com/book/en/v1/Git-Basics-Tips-and-Tricks
   * https://filip-prochazka.com/blog/git-fixup
+  * http://ohshitgit.com

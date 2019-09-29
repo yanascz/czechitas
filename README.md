@@ -3,7 +3,7 @@
 ## Úkoly
 
 Seznamte se s obsahem repozitáře a všimněte si nekonzistencí v pojmenování i obsahu jednotlivých souborů.
-Pokud není zřejmá, vysvětlení Markdown syntaxe najdete třeba na https://www.markdownguide.org/basic-syntax.
+Soubory jsou ve značkovacím jazyce [Markdown](https://www.markdownguide.org), jehož [syntaxe](https://www.markdownguide.org/basic-syntax) není nijak složitá.
 
 **Níže uvedené úkoly se nevztahují na soubor `README.md`, který právě čtete.**
 
@@ -28,27 +28,20 @@ Pokud není zřejmá, vysvětlení Markdown syntaxe najdete třeba na https://ww
 
 ## Bonus
 
-1. Založte si účet na https://bitbucket.org, https://github.com nebo https://gitlab.com.
-1. Založte si soukromý repozitář a nahrajte do něj dnešní repozitář s kompletní historií.
+1. Seznamte se se službami [Bitbucket](https://bitbucket.org), [GitHub](https://github.com) a [GitLab](https://gitlab.com) a vytvořte si u jedné z nich účet.
+1. Přihlašte se, založte si soukromý repozitář a nahrajte do něj dnešní repozitář s kompletní historií.
 1. To samé můžete vyzkoušet pro ostatní služby a porovnat, která služba se vám používá líp.
-1. Abyste nemusely opakovaně zadávat heslo, zprovozněte si přístup přes SSH do každého ze svých repozitářů.
+1. Abyste nemusely opakovaně zadávat heslo, zprovozněte si přístup přes SSH ke každé ze svých služeb.
 1. Prostudujte si materiály z odkazů níže.
 
 ## Odkazy
 
-* Pro Git book
-    * https://git-scm.com/book/en/v2
-* Seznam grafických klientů
-    * https://git-scm.com/downloads/guis
-* Visualizátor Git konceptů
-    * https://onlywei.github.io/explain-git-with-d3/
-* Rebase
-    * https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase
-    * https://www.atlassian.com/git/tutorials/merging-vs-rebasing
-* Srovnání Git workflows
-    * https://www.atlassian.com/git/tutorials/comparing-workflows
-    * https://guides.github.com/introduction/flow/index.html
-* Specialitky
-    * https://git-scm.com/book/en/v1/Git-Basics-Tips-and-Tricks
-    * https://filip-prochazka.com/blog/git-fixup
-    * http://ohshitgit.com
+* [Pro Git book](https://git-scm.com/book/en/v2)
+* [Základní tipy a triky](https://git-scm.com/book/en/v1/Git-Basics-Tips-and-Tricks)
+* [Seznam grafických klientů](https://git-scm.com/downloads/guis)
+* [Visualizátor Git konceptů](https://onlywei.github.io/explain-git-with-d3/)
+* [Srovnání Git workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
+* [Přepisování historie a rebase](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase)
+* [Srovnání merge a rebase](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+* [Použití --fixup](https://filip-prochazka.com/blog/git-fixup)
+* [Oh Shit, Git!?!](http://ohshitgit.com)

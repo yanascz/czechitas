@@ -23,8 +23,6 @@ Soubory jsou ve značkovacím jazyce [Markdown](https://www.markdownguide.org), 
 1. Upravte seznam filmů tak, aby byl rok v závorce na konci řádku, stejně jako u prvních dvou filmových sérií.
 1. Upravte seznam filmů série *Bourne* tak, aby jednotlivé filmy byly uvedeny vzestupně dle roku vytvoření.
 1. Vytvořte adresář `movies` a do něj rozdělte obsah souboru `movie_series.md` do 4 souborů. Soubory pojmenutje podle názvů filmových sérií, tedy např. `the_matrix.md`.
-1. Rozšiřte seznam filmů o sérii *Harry Potter*. Informace můžete čerpat z ČSFD nebo IMDb.
-1. Rozšiřte seznam seriálů o všechny díly a epizody *Game of Thrones*.
 
 ## Bonus
 

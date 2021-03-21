@@ -35,7 +35,7 @@ Soubory jsou ve značkovacím jazyce [Markdown](https://www.markdownguide.org), 
 ## Odkazy
 
 * [Pro Git book](https://git-scm.com/book/en/v2)
-* [Základní tipy a triky](https://git-scm.com/book/en/v1/Git-Basics-Tips-and-Tricks)
+* [Přehled základních operací v Gitu](https://pyvec.github.io/cheatsheets/basic-git/basic-git-cs.pdf)
 * [Seznam grafických klientů](https://git-scm.com/downloads/guis)
 * [Visualizátor Git konceptů](https://onlywei.github.io/explain-git-with-d3/)
 * [Srovnání Git workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)

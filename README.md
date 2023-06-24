@@ -44,3 +44,4 @@ Soubory jsou ve značkovacím jazyce [Markdown](https://www.markdownguide.org), 
 * [Použití --fixup](https://filip-prochazka.com/blog/git-fixup)
 * [Oh Shit, Git!?!](http://ohshitgit.com)
 * [How secure is 256 bit security?](https://www.3blue1brown.com/lessons/256-bit-security)
+* [Learn Git branching](https://learngitbranching.js.org/)

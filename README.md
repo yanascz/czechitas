@@ -41,7 +41,7 @@ Soubory jsou ve značkovacím jazyce [Markdown](https://www.markdownguide.org), 
 * [Srovnání Git workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
 * [Přepisování historie a rebase](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase)
 * [Srovnání merge a rebase](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+* [Learn Git branching](https://learngitbranching.js.org/)
 * [Použití --fixup](https://filip-prochazka.com/blog/git-fixup)
 * [Oh Shit, Git!?!](http://ohshitgit.com)
 * [How secure is 256 bit security?](https://www.3blue1brown.com/lessons/256-bit-security)
-* [Learn Git branching](https://learngitbranching.js.org/)
